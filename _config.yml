@@ -29,12 +29,12 @@ author:
   bio              : "Researcher on Game Theory"
   location         : "Renmin University of China"
   employer         : 
-  uri              : https://lysuccess.github.io/YanLiu.github.io/
-  email            : "liuyan5816@ruc.edu.cn" 
+  #uri              : https://lysuccess.github.io/YanLiu.github.io/
+  email            : liuyan5816@ruc.edu.cn
 
   # Academic websites
-  academia         : # URL
-  arxiv            : # URL - Update with the correct link to your profile
+  #academia         : # URL
+  #arxiv            : # URL - Update with the correct link to your profile
   googlescholar    : "https://scholar.google.com/citations?user=PS_CX0AAAAAJ"
   #inspire-hep      : # URL
   #impactstory      : # URL
@@ -48,13 +48,13 @@ author:
   bitbucket        : # Username - Update with your username on the site
   codepen          : # Username
   dribbble         : # Username
-  github           : "academicpages"
+  #github           : "academicpages"
   kaggle           : # Username  
   stackoverflow    : # User number or user number and name (i.e., use "1" or "1/jeff-atwood")    
 
   # Social media
   artstation       : # Username
-  bluesky          : "bsky.app" # Replace this with you Bluesky username
+  #bluesky          : "bsky.app" # Replace this with you Bluesky username
   facebook         : # Username
   flickr           : # Username
   foursquare       : # Username
